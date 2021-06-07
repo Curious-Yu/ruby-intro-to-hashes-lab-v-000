@@ -1,5 +1,7 @@
 def new_hash
-	:the_hash => {}
+	:new_hash => {
+		name =>{}
+	}
 end
 
 def actor
