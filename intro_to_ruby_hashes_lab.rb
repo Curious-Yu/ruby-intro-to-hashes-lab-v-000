@@ -1,9 +1,5 @@
 def new_hash
-	new_hash => {
-		:name=>"benny"
-		:pet=>
-	}
-
+	new_hash => {}
 end
 
 def actor
